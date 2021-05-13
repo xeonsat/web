@@ -1,0 +1,36 @@
+[
+    {
+        "traditional": "",
+        "pinyinTraditional": "",
+        "simplified": "",
+        "pinyinSimplified": "",
+        "english": "",
+        "romanian": "",
+        "exampleOne": [
+            "traditionalExample": "",
+            "pinyinTraditionalExample": "",
+            "englishTranslation": "",
+            "romanianTranslation": "",
+            "simplifiedExample": "",
+            "pinyinSimplifiedExample": ""
+        ]
+    }
+]
+
+
+{
+    "traditional": "",
+    "pinyinTraditional": "",
+    "simplified": "",
+    "pinyinSimplified": "",
+    "english": "",
+    "romanian": "",
+    "examples": [
+        { "traditionalExample":[ "", "", "", "", "" ] },
+        { "pinyinTraditionalExample":[ "", "", "", "", "" ] },
+        { "englishTranslation":[ "", "", "", "", "" ] },
+        { "romanianTranslation":[ "", "", "", "", "" ] },
+        { "simplifiedExample":[ "", "", "", "", "" ] },
+        { "pinyinSimplifiedExample":[ "", "", "", "", "" ] }
+    ]
+}
