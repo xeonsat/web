@@ -13,12 +13,45 @@
             "romanianTranslation": "",
             "simplifiedExample": "",
             "pinyinSimplifiedExample": ""
+        ],
+        "exampleTwo": [
+            "traditionalExample": "",
+            "pinyinTraditionalExample": "",
+            "englishTranslation": "",
+            "romanianTranslation": "",
+            "simplifiedExample": "",
+            "pinyinSimplifiedExample": ""
+        ],
+        "exampleThree": [
+            "traditionalExample": "",
+            "pinyinTraditionalExample": "",
+            "englishTranslation": "",
+            "romanianTranslation": "",
+            "simplifiedExample": "",
+            "pinyinSimplifiedExample": ""
+        ],
+        "exampleFour": [
+            "traditionalExample": "",
+            "pinyinTraditionalExample": "",
+            "englishTranslation": "",
+            "romanianTranslation": "",
+            "simplifiedExample": "",
+            "pinyinSimplifiedExample": ""
+        ],
+        "exampleFive": [
+            "traditionalExample": "",
+            "pinyinTraditionalExample": "",
+            "englishTranslation": "",
+            "romanianTranslation": "",
+            "simplifiedExample": "",
+            "pinyinSimplifiedExample": ""
         ]
     }
 ]
 
 
 {
+    "characterID": "1",
     "traditional": "",
     "pinyinTraditional": "",
     "simplified": "",
@@ -34,3 +67,59 @@
         { "pinyinSimplifiedExample":[ "", "", "", "", "" ] }
     ]
 }
+
+{
+    "characterID": "2",
+    "traditional": "",
+    "pinyinTraditional": "",
+    "simplified": "",
+    "pinyinSimplified": "",
+    "english": "",
+    "romanian": "",
+    "examples": [
+        { "traditionalExample":[ "", "", "", "", "" ] },
+        { "pinyinTraditionalExample":[ "", "", "", "", "" ] },
+        { "englishTranslation":[ "", "", "", "", "" ] },
+        { "romanianTranslation":[ "", "", "", "", "" ] },
+        { "simplifiedExample":[ "", "", "", "", "" ] },
+        { "pinyinSimplifiedExample":[ "", "", "", "", "" ] }
+    ]
+}
+
+?????
+[
+    {
+        "characterID": "1",
+        "traditional": "",
+        "pinyinTraditional": "",
+        "simplified": "",
+        "pinyinSimplified": "",
+        "english": "",
+        "romanian": "",
+        "examples": [
+            { "traditionalExample":[ "", "", "", "", "" ] },
+            { "pinyinTraditionalExample":[ "", "", "", "", "" ] },
+            { "englishTranslation":[ "", "", "", "", "" ] },
+            { "romanianTranslation":[ "", "", "", "", "" ] },
+            { "simplifiedExample":[ "", "", "", "", "" ] },
+            { "pinyinSimplifiedExample":[ "", "", "", "", "" ] }
+        ]
+    },
+    {
+        "characterID": "2",
+        "traditional": "",
+        "pinyinTraditional": "",
+        "simplified": "",
+        "pinyinSimplified": "",
+        "english": "",
+        "romanian": "",
+        "examples": [
+            { "traditionalExample":[ "", "", "", "", "" ] },
+            { "pinyinTraditionalExample":[ "", "", "", "", "" ] },
+            { "englishTranslation":[ "", "", "", "", "" ] },
+            { "romanianTranslation":[ "", "", "", "", "" ] },
+            { "simplifiedExample":[ "", "", "", "", "" ] },
+            { "pinyinSimplifiedExample":[ "", "", "", "", "" ] }
+        ]
+    }
+]
