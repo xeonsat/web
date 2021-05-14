@@ -1,4 +1,14 @@
-[
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Access an array value of a JSON object.</p>
+
+<p id="abuf"></p>
+
+<script>
+var myObj, x;
+myObj = [
     {
         "characterID": "1",
         "traditional": "一",
@@ -34,3 +44,9 @@
         ]
     },
 ]
+x = myObj[0].examples[1].ex1[0];
+document.getElementById("demo").innerHTML = x;
+</script>
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Access an array value of a JSON object.</p>
+
+<p id="demo"></p>
+
+<script>
+var myObj, x;
+myObj = [
+    {
+        "characterID": "1",
+        "traditional": "",
+        "pinyinTraditional": "",
+        "simplified": "",
+        "pinyinSimplified": "",
+        "english": "",
+        "romanian": "",
+        "examples": [
+            { "ex1":[ "aaa", "bbb", "", "", "" ] },
+            { "ex2":[ "nj", "nkkk", "", "", "" ] },
+            { "ex3":[ "", "", "", "", "" ] },
+            { "ex4":[ "", "", "", "", "" ] },
+            { "ex5":[ "", "", "", "", "" ] }
+        ]
+    },
+        {
+        "characterID": "2",
+        "traditional": "",
+        "pinyinTraditional": "",
+        "simplified": "",
+        "pinyinSimplified": "",
+        "english": "",
+        "romanian": "",
+        "examples": [
+            { "ex1":[ "776", "", "", "", "" ] },
+            { "ex2":[ "", "", "", "", "" ] },
+            { "ex3":[ "", "", "", "", "" ] },
+            { "ex4":[ "", "", "", "", "" ] },
+            { "ex5":[ "", "", "", "", "" ] }
+        ]
+    },
+]
+x = myObj[0].examples[0].ex1[0];
+document.getElementById("demo").innerHTML = x;
+</script>
+
+</body>
+</html>
