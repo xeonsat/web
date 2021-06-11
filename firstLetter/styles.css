@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.content-wrap {
+    max-width: 800px;
+    width: 85%;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+p:first-of-type::first-letter {
+    font-size: 3rem;
+    float: left;
+    margin -1rem 0.5rem 0 0;
+    color: tomato;
+    font-family: 'Special Elite';
+}
