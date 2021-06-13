@@ -13,9 +13,27 @@ html {
   justify-content: space-between;
 }
 
+h2 {
+  background-color: bisque;
+}
+
 article {
-  flex-basis: 25%;
+  flex-basis: 24%;
   padding: 1rem;
   border: 1px solid rgb(2, 90, 149);
   border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+@media (min-width: 500px) {
+  article {
+    flex-basis: 48.5%;
+    background-color: honeydew;
+  }
+}
+
+@media (min-width: 850px) {
+  article {
+    flex-basis: 24%;
+  }
 }
