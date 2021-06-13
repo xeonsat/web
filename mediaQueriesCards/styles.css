@@ -12,3 +12,10 @@ html {
   flex-flow: row wrap;
   justify-content: space-between;
 }
+
+article {
+  flex-basis: 25%;
+  padding: 1rem;
+  border: 1px solid rgb(2, 90, 149);
+  border-radius: 10px;
+}
