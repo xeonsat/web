@@ -49,3 +49,10 @@ article {
     border: none;
   }
 }
+
+/* Hover */
+@media (hover: hover) {
+  article:hover {
+    background-color: turquoise;
+  }
+}
