@@ -17,15 +17,18 @@ h2 {
   background-color: bisque;
 }
 
+/* Computer First is using flex-basis: any value... eg. 24.5% */
+/* Mobile First is using flex-basis: 100% */
 article {
-  flex-basis: 24%;
+  flex-basis: 100%;
   padding: 1rem;
   border: 1px solid rgb(1, 25, 41);
   border-radius: 10px;
   margin: 5px;
   font-family: "Poiret One";
 }
-
+/* Computer First is using max-width 850px and 500px*/
+/* Mobile First is using min-width 500px and 850px */
 @media (min-width: 500px) {
   article {
     flex-basis: 80%;
@@ -39,6 +42,7 @@ article {
   }
 }
 
+/* Fit for printing */
 @media print {
   article {
     flex-basis: 100%;
