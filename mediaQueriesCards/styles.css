@@ -38,3 +38,10 @@ article {
     flex-basis: 24%;
   }
 }
+
+@media print {
+  article {
+    flex-basis: 100%;
+    border: none;
+  }
+}
