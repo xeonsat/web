@@ -56,3 +56,11 @@ article {
     background-color: turquoise;
   }
 }
+/* Pointer */
+/*
+@media (pointer: fine) {
+  article:hover {
+    color: #fff;
+  }
+}
+*/
